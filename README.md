@@ -20,6 +20,11 @@
 
 - [Autoscaling Dapr service based on queue depth](https://github.com/mchmarny/dapr-demos/tree/master/autoscaling-on-queue)
 
+#### MySQL
+
+- [Using MySQL queries and KEDA](https://github.com/nuclearpinguin/keda-example#mysql-example)
+
+
 #### Nats Streaming
 
 - [Nats Streaming with Go](https://github.com/balchua/gonuts)
@@ -28,6 +33,10 @@
 
 - [RabbitMQ consumed by Go container](https://github.com/kedacore/sample-go-rabbitmq/tree/v2)
 - [RabbitMQ consumed by .NET container](https://github.com/NileshGule/pd-tech-fest-2019)
+
+### Redis
+
+- [Using Redis scaler](https://github.com/nuclearpinguin/keda-example#redis-example)
 
 ### KEDA 1.0
 
@@ -65,10 +74,6 @@
 
 - [Nats streaming with Keda and Virtual Kubelet](https://github.com/infracloudio/keda-vk-aci)
 
-#### MySQL
-
-- [Using MySQL queries and KEDA](https://github.com/nuclearpinguin/keda-example#mysql-example)
-
 #### Prometheus
 
 - [Autoscaling Kubernetes apps with Prometheus and KEDA](https://itnext.io/tutorial-auto-scale-your-kubernetes-apps-with-prometheus-and-keda-c6ea460e4642)
@@ -78,10 +83,6 @@
 #### RabbitMQ
 
 - [RabbitMQ consumed by Go container](https://github.com/kedacore/sample-go-rabbitmq)
-
-### Redis
-
-- [Using Redis scaler](https://github.com/nuclearpinguin/keda-example#redis-example)
 
 #### Dapr and Azure Functions
 
